@@ -2,7 +2,7 @@
 
 # <img src="Figures/listening.png" style="width: 5%">  EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot
 
-[Hao Fei](http://haofei.vip/)*, [Han Zhang](#),  [Bin Wang](#),  [Lizi Liao](https://liziliao.github.io/), 
+[Hao Fei](http://haofei.vip/), [Han Zhang](#),  [Bin Wang](#),  [Lizi Liao](https://liziliao.github.io/), 
 [Qian Liu](#), and [Erik Cambria](https://sentic.net/).
 
 
