@@ -21,12 +21,21 @@ This is the repository that contains the source code for the ACL Demo of **Empat
 
 
 
+https://github.com/scofield7419/EmpathyEar/assets/18722770/082b238f-dbf2-42a4-a238-abae88fdb110
+
+
+Watch HQ Youtube Video Demonstration:
+
+
+[![Watch HQ Youtube Video Demonstration](https://img.youtube.com/vi/gGn9oYftwbY/0.jpg)](https://www.youtube.com/watch?v=gGn9oYftwbY)
+
+
 
 
 # Workflow
 
 <p align="center" width="60%">
-<a target="_blank"><img src="Figures/workflow.png" alt="EmpathyEar" style="width: 90%; min-width: 200px; display: block; margin: auto;"></a>
+<a target="_blank"><img src="Figures/workflow.png" alt="EmpathyEar" style="width: 40%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
 
 
@@ -35,7 +44,7 @@ This is the repository that contains the source code for the ACL Demo of **Empat
 # Framework Architecture
 
 <p align="center" width="100%">
-<a target="_blank"><img src="Figures/framework.png" alt="EmpathyEar" style="width: 90%; min-width: 200px; display: block; margin: auto;"></a>
+<a target="_blank"><img src="Figures/framework.png" alt="EmpathyEar" style="width: 100%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
 
 
