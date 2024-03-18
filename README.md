@@ -55,7 +55,7 @@ Watch HQ Youtube Video Demonstration:
 We acknowledge these works for their public codes: 
 [Flan-T5](https://huggingface.co/google/flan-t5-xxl), 
 [ImageBind](https://github.com/facebookresearch/ImageBind), 
-[ZET-Speech (unofficial)](https://github.com/ZET-Speech/ZET-Speech-Demo), 
+[StyleTTS2](https://github.com/yl4579/StyleTTS2), 
 [EAT](https://github.com/yuangan/EAT_code).
 </div>
 
