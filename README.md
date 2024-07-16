@@ -10,7 +10,7 @@
 <div align="justify">
 
 
-This is the repository that contains the source code for the ACL 2024 Demo of **EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot**.
+This is the repository that contains the source code for the ACL 2024 Demo of [**EmpathyEar: An Open-source Avatar Multimodal Empathetic Chatbot**](https://arxiv.org/abs/2406.15177).
 EmpathyEar is a pioneering open-source, avatar-based multimodal empathetic chatbot, to fill the gap in traditional text-only empathetic response generation (ERG) systems.    
 
 
